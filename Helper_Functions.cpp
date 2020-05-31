@@ -37,6 +37,7 @@ public:
 		return !str.empty() && it == str.end();
 	}
 
+
 	bool iss_empty(ifstream& pFile)
 		/**checks if a file is empty*/
 	{
